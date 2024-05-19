@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const text = "Olá, meu nome é Luís Fernando.";
+    const text = "Olá, meu nome é Gabriel.";
     const typingElement = document.getElementById('typing');
     const cursorElement = document.getElementById('cursor');
     
@@ -15,4 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     typeLetter();
 });
+
+
+
 
