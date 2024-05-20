@@ -120,6 +120,7 @@ body, html {
     width: 100%;
     max-width: 400px; /* Ajusta o tamanho máximo da imagem */
     transition: transform 0.15s ease-in-out;
+    border-radius: 30px;
 }
 
 .projeto img:hover {
